@@ -1,0 +1,7 @@
+{
+  "name": "PigFarm Audit Pro",
+  "description": "A professional on-farm audit tool for livestock inspections featuring dynamic checklists, photo evidence capture, and real-time score calculation synced with Google Apps Script.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
